@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/1Tatsumaru1/exploratory-data-analysis/blob/master/img/values.png" alt="values">
   <br>
-  Data mining
+  Exploratory data analysis
   <br>
 </h1>
 
